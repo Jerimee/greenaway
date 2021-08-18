@@ -17,7 +17,9 @@ A wiki here: https://github.com/Jerimee/greenaway/wiki
 
 greenaway/faq
 
-[faq?](faq)
+[faq 1](FAQ)
+
+[faq 2](faq)
 
 [Victims](victims)
 
