@@ -13,7 +13,7 @@ Content go here: https://vfi.mistdriven.com/fallhome.html
 
 A wiki here: https://github.com/Jerimee/greenaway/wiki
 
-greenaway/faq
+[faq?](faq)
 
 ### Markdown
 
