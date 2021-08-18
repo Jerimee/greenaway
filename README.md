@@ -6,7 +6,9 @@ Often wehn you commit to this repository, GitHub Pages will run [Jekyll](https:/
 
 ### I do work
 
-See content go here! https://vfi.mistdriven.com/fallhome.html
+Content go here: https://vfi.mistdriven.com/fallhome.html
+
+A wiki here: https://github.com/Jerimee/greenaway/wiki
 
 ### Markdown
 
