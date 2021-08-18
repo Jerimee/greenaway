@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "FAQ"
-permalink: /faq/
+permalink: /greenaway/faq/
 ---
 
 Content for FAQ
