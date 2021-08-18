@@ -4,4 +4,4 @@ title: "FAQ"
 permalink: /faq/
 ---
 
-Content
+Content for FAQ
