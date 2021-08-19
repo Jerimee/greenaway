@@ -2,6 +2,7 @@
 layout: faq
 title: "Rameau's Nephew by Michael Snow"
 permalink: vfi/snow/
+author: Michael Snow
 ---
 
 NOT forMATTED
