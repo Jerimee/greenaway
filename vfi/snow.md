@@ -1,16 +1,16 @@
 ---
 layout: faq
 title: "Rameau's Nephew by Michael Snow"
-permalink: vfi/snow/
+permalink: /vfi/snow/
 author: Michael Snow
 ---
 
-**IMPT NOT FORMATTED**
+**IMPorTant NOT FORMATTED**
 
 Peter Greenaway compared 'The Falls' to Michael Snow's 'Rameau's Nephew' (press [here](https://vfi.mistdriven.com/whatfall.html) for the relevant text). VFI Scholars have not been backwards in coming forward with details on Rameau's Nephew.
 
 
-Alan Andres offers these notes on Michael Snow's Rameau's Nephew
+## Alan Andres offers these notes on Michael Snow's Rameau's Nephew
 
 The following is from a much longer bio/critical entry on Michael Snow in World Film Directors, Volume II 1945-1985, edited by John Wakeman (H.W. Wilson Company 1988).
 
