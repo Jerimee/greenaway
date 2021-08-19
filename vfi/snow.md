@@ -2,6 +2,7 @@
 layout: faq
 title: "Rameau's Nephew by Michael Snow"
 permalink: /vfi/snow/
+parent: /vfi/
 author: Michael Snow
 ---
 
@@ -23,7 +24,8 @@ And from The International Dictionary of Films and Filmmakers Vol II, ed by Chri
 'Rameau's Nephew'...takes on an encyclopedic range of topics related to picture and sound, with a Duchampian 'study' of language most prominent. For 285 minutes, in apparently 24 distinct sections, the film explores the human body as a source of sound. The inherent independence of the picture and sound in all films becomes the justification for the invention of a series of totally improbable environments born of the disembodiment of sound: someone plays a sink, a voice roves around a room filled with people, a male/female urinating context is grotesquely simplified, a chair guffaws wildly, a piano moans out an orgasm, and so on. Like all of Snow's major works, his longest takes a technical fact as the generating force for a wholly cinematic presentation of space.
 
 
-dakar AT pop3.portal.ca adds:
+## dakar AT pop3.portal.ca adds:
+
 ...... a few words on Michael Snow. He's a Canadian, born in 1929, who's had major showings across North America and is perhaps Canada's pre-eminint experimental artist. (He is an artist, not a filmmaker, just an artist who paints, sculpts, films, etc.). He is married to Joyce Wieland, also a very well known artist in Canada.
 
 Snow's best known work is a rather pedestrian piece, a flock of Canadian geese. This larger than life canvas hangs (it's a mobile) in Eaton Centre, a huge multi-story mall in downtown Toronto. Eaton's dressed the geese up one Christmas with red bows and Snow sued. Snow won.
