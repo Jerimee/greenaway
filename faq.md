@@ -12,7 +12,15 @@ The VUE is the Violent Unknown Event.
 
 ## What happened?
 
- 19,000,000 victims were impacted.
+19,000,000 victims were impacted.
+
+## Who is Tulse Luper? What kind of a name is "Tulse?"
+
+https://www.imdb.com/title/tt0307596/
+
+## What is FOX?
+
+FOX is the Society For Ornithological Extermination.
 
 ## Why is this site so ugly?
 
