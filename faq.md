@@ -14,6 +14,8 @@ The VUE is the Violent Unknown Event.
 
 19,000,000 victims were impacted.
 
+## What caused the VUE?
+
 ## Who is Tulse Luper? What kind of a name is "Tulse?"
 
 https://www.imdb.com/title/tt0307596/
