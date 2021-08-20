@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "John offers these notes on Oulipo and 'The Falls'"
+title: "Oulipo and 'The Falls'"
 ---
+## John offers these notes on Oulipo and 'The Falls'
 
-Calvino is rightly mentioned as a writer analogous to Greenaway. Calvino belonged to a group called Oulipo (Ouvoir de Litterature Potentielle - Workshop of Potential Literature) founded in Paris in 1960, and I think it is precisely the 'Oulipian' side of Calvino's work that most directly relates to PG. I feel this group deserves mention as both its atmosphere and the work of some of its other members have affinities with PG.
+[Calvino](https://en.wikipedia.org/wiki/Italo_Calvino) is rightly mentioned as a writer analogous to Greenaway. Calvino belonged to a group called Oulipo (Ouvoir de Litterature Potentielle - Workshop of Potential Literature) founded in Paris in 1960, and I think it is precisely the 'Oulipian' side of Calvino's work that most directly relates to PG. I feel this group deserves mention as both its atmosphere and the work of some of its other members have affinities with PG.
 
 The members of Oulipo were either writers or scientists and mathematicians (or in some cases both). Their project was to define a body of techniques for the generation of literary texts. As an offshoot of the central project, members would employ these techniques in various combinations to create works of literature.
 
